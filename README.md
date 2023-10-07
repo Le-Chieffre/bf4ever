@@ -14,12 +14,13 @@
 **User experience**:
 1. Find condominium on Boligsiden and add URL to website
 2. Get full CF-model based on the chosen condominium with
-    1. both a "bestimate" model,
+    1. both a "bestimate" model (incl. price forecast),
     2. , one based on standard assumptions,
     3. , and a price suggestion where the rental case would be profitable
-3. Visualisation of RoE, DSCR and outstanding Equity
-4. Get insight into used data
-5. Download model (w. variables) in Excel-file
+3. Ability to choose which combination of assumptions to be used i.e. forecasted or standard assumptions
+4. Visualisation of RoE, DSCR and outstanding Equity
+5. Get insight into used data
+6. Download model (w. variables) in Excel-file
 
 **Data gathering (WIP)**:
 - Condominium data: [Boligsiden](https://www.boligsiden.dk/) el. [Boliga](https://www.boliga.dk/)
